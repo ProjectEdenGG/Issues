@@ -1,2 +1,1 @@
-# BearNation
-An issue/project tracker for Bear Nation maintained by its staff.
+An issue/project tracker for Project Eden maintained by the staff team
